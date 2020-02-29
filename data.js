@@ -25,13 +25,13 @@ const data = {
             {
                 "text": "Inspiratieboek",
                 "title": "Mijn PDF met inspiratie (login, functions, result)",
-                "href": "./assignments/assignment1/documents/a1-inspiration.pdf",
+                "href": "https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Ae58ed3a8-62e9-4013-a89b-1fc8d582840c",
                 "target": "_blank"
             },
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "https://xd.adobe.com/view/f54e3c98-191b-4f4c-6ac7-563a3c55076f-837f/",
+                "href": "https://1drv.ms/u/s!AopMraQ4UNt-klmzLPPs0Xv06Ego?e=9inNVM",
             },
             {
                 "text": "Adobe XD Prototype",
