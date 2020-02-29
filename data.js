@@ -31,12 +31,12 @@ const data = {
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment1/documents/a1-visual-designs.xd",
+                "href": "https://xd.adobe.com/view/f54e3c98-191b-4f4c-6ac7-563a3c55076f-837f/",
             },
             {
                 "text": "Adobe XD Prototype",
                 "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/e4c35170-a2f7-4c10-753b-ba7c449703ec-92f2/grid",
+                "href": "https://xd.adobe.com/view/f54e3c98-191b-4f4c-6ac7-563a3c55076f-837f/",
                 "target": "_blank"
             }
         ]
