@@ -25,7 +25,7 @@ const data = {
             {
                 "text": "Inspiratieboek",
                 "title": "Mijn PDF met inspiratie (login, functions, result)",
-                "href": "https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Ae58ed3a8-62e9-4013-a89b-1fc8d582840c",
+                "href": "https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A9e040ec6-8ffc-424c-a835-e4df5bc7eed0",
                 "target": "_blank"
             },
             {
@@ -51,18 +51,18 @@ const data = {
             {
                 "text": "Inspiratieboek",
                 "title": "Mijn PDF met inspiratie",
-                "href": "./assignments/assignment2/documents/a2-inspiration.pdf",
+                "href": "https://1drv.ms/b/s!AopMraQ4UNt-kygER4zV0TmkNkb2",
                 "target": "_blank"
             },
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment2/documents/a2-visual-designs.xd",
+                "href": "https://1drv.ms/u/s!AopMraQ4UNt-kyc52vcHAKAloqSa",
             },
             {
                 "text": "Adobe XD Prototype",
                 "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/e4c35170-a2f7-4c10-753b-ba7c449703ec-92f2/grid",
+                "href": "https://xd.adobe.com/view/baa3275e-7490-4fea-7383-aefab67c7899-cc92/",
                 "target": "_blank"
             }
         ]
